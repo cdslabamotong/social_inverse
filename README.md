@@ -1,8 +1,10 @@
 # Social-Inverse
 
+**Social-Inverse: Inverse Decision-making of Social Contagion Management with Task Migrations, NeurIPS 2022**
+
 Code for USCO-Solver.
 
-**Social-Inverse: Inverse Decision-making of Social Contagion Management with Task Migrations, NeurIPS 2022**
+Please download data and pretrain models at https://udel.edu/~amotong/dataset/social_inverse/
 
 The one-slack cutting plane algorithm is implemented based on Pystruct.
 
