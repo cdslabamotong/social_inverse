@@ -2,6 +2,12 @@
 
 **Social-Inverse: Inverse Decision-making of Social Contagion Management with Task Migrations, NeurIPS 2022**
 
+
+
+Abstract: Considering two optimization problems, can we solve one problem by using the solutions to the other one?
+
+
+
 Code for USCO-Solver.
 
 Please download data and pretrain models at https://udel.edu/~amotong/dataset/social_inverse/
