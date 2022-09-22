@@ -6,6 +6,8 @@
 
 Abstract: Considering two optimization problems, can we solve one problem by using the solutions to the other one?
 
+http://arxiv.org/abs/2209.10493
+
 #
 
 Code for USCO-Solver.
