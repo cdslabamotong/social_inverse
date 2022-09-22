@@ -10,7 +10,7 @@ http://arxiv.org/abs/2209.10493
 
 #
 
-Code for USCO-Solver.
+Code for Social-Inverse.
 
 Please download data and pretrain models at https://udel.edu/~amotong/dataset/social_inverse/
 
